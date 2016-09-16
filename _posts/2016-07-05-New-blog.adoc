@@ -1,0 +1,12 @@
+= New blog
+:published_at: 2016-07-05
+
+
+I got a new blog up and running now... I wont update it too much... Maybe a few times a week to say where I've been and such. I could integrate it into my Adobe Portfolio website so maybe I'll do that!
+
+For the time being I hope my problems with the domain and HSTS will get solved and that I get a better future... In the mean time I hope you're gonna have a great day too!
+
+Edit: Fixed the error by clearing ALL my browser data... Luckily I could save my passwords... x3
+Edit2: Maybe not all :(
+
+If you're wondering about the URL it's because I'm hosting it on my Cozy Cloud provided by http://cozy.io you should check them out yourselves if you're interested in getting a personal cloud filled with features that other users have created!
