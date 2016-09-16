@@ -11,7 +11,10 @@
     "postsPerPage": "5",
     "disqus": "zelafs-blog"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "zelaf@zelaf.eu",
+    "twitter": "@ZelafAry"
+  },
   "theme": {
     "name": "casper"
   }
