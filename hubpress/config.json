@@ -5,7 +5,12 @@
     "branch": "master",
     "cname": "blog.zelaf.eu"
   },
-  "site": {},
+  "site": {
+    "title": "Zelaf's Blog",
+    "description": "I write about projects, problems and my life.",
+    "postsPerPage": "5",
+    "disqus": "zelafs-blog"
+  },
   "socialnetwork": {},
   "theme": {
     "name": "casper"
