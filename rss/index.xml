@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Zelaf's Blog]]></title><description><![CDATA[I write about projects, problems and my life.]]></description><link>http://blog.zelaf.eu</link><generator>RSS for Node</generator><lastBuildDate>Fri, 16 Sep 2016 19:32:53 GMT</lastBuildDate><atom:link href="http://blog.zelaf.eu/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[School related problems]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Zelaf's Blog]]></title><description><![CDATA[I write about projects, problems and my life.]]></description><link>http://blog.zelaf.eu</link><generator>RSS for Node</generator><lastBuildDate>Fri, 16 Sep 2016 20:26:56 GMT</lastBuildDate><atom:link href="http://blog.zelaf.eu/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Now migrated!]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Finally I got propper blog hosting! Now I use HubPress (<a href="https://github.com/HubPress/hubpress.io" class="bare">https://github.com/HubPress/hubpress.io</a>)</p>
+</div>
+<div class="paragraph">
+<p>It feels limited in what it can do. Especially in the writing. BUT unlike other GitHub Pages hostable, it has web based writing&#8230;&#8203; You can write the text in your browser. I think it&#8217;s a wrapper to ghost which is really nice actually! I can&#8217;t turn text into links but I have to post them seperatly which kinda sucks.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_titles">Titles</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_great">Great</h3>
+<div class="paragraph">
+<p>Instead of using headers like in HTML you use '='.</p>
+</div>
+<div class="paragraph">
+<p>I can also insert code snipets</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>== Titles
+
+=== Great</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>I quite like this.</p>
+</div>
+<div class="paragraph">
+<p>Hopefully writing will be easier in the future and maybe even more entries to come!</p>
+</div>
+</div>
+</div>
+</div>]]></description><link>http://blog.zelaf.eu/2016/09/16/Now-migrated.html</link><guid isPermaLink="true">http://blog.zelaf.eu/2016/09/16/Now-migrated.html</guid><pubDate>Fri, 16 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[School related problems]]></title><description><![CDATA[<div class="paragraph">
 <p>Problems can cause alot of extra work and make you really tired. So when the town denies your request to pay for residential at a school&#8230;&#8203; You don&#8217;t get much to do. Go up play games or watch a movie, eat and then do that throughout the day and then go to bed&#8230;&#8203; Repeat&#8230;&#8203;. This gets boring after a few days&#8230;&#8203; But after a few weeks it gets repetative and it&#8217;s driving me nuts.</p>
 </div>
 <div class="paragraph">
