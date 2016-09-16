@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Zelaf's Blog]]></title><description><![CDATA[I write about projects, problems and my life.]]></description><link>http://blog.zelaf.eu</link><generator>RSS for Node</generator><lastBuildDate>Fri, 16 Sep 2016 19:23:10 GMT</lastBuildDate><atom:link href="http://blog.zelaf.eu/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hello World]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Zelaf's Blog]]></title><description><![CDATA[I write about projects, problems and my life.]]></description><link>http://blog.zelaf.eu</link><generator>RSS for Node</generator><lastBuildDate>Fri, 16 Sep 2016 19:26:49 GMT</lastBuildDate><atom:link href="http://blog.zelaf.eu/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hello World]]></title><description><![CDATA[<div class="paragraph">
 <p>This is a test post, Hello world!</p>
 </div>]]></description><link>http://blog.zelaf.eu/2016/09/16/Hello-World.html</link><guid isPermaLink="true">http://blog.zelaf.eu/2016/09/16/Hello-World.html</guid><category><![CDATA[Hello]]></category><category><![CDATA[ World]]></category><category><![CDATA[ Hello Word]]></category><category><![CDATA[ Test]]></category><category><![CDATA[ Lorum]]></category><pubDate>Fri, 16 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[School related problems]]></title><description><![CDATA[<div class="paragraph">
 <p>Problems can cause alot of extra work and make you really tired. So when the town denies your request to pay for residential at a school&#8230;&#8203; You don&#8217;t get much to do. Go up play games or watch a movie, eat and then do that throughout the day and then go to bed&#8230;&#8203; Repeat&#8230;&#8203;. This gets boring after a few days&#8230;&#8203; But after a few weeks it gets repetative and it&#8217;s driving me nuts.</p>
@@ -22,4 +22,16 @@
 </div>
 <div class="paragraph">
 <p>I hope that I will feel better soon and that I can do continue to work on my project because now, my stomach hurts to the point that I&#8217;m scared of going out because I constantly think "What if I vomit?" so I&#8217;ve been staying inside eating small portions of food for a few days now and hopefully it will be better soon.</p>
-</div>]]></description><link>http://blog.zelaf.eu/2016/07/06/When-your-stomach-hurts.html</link><guid isPermaLink="true">http://blog.zelaf.eu/2016/07/06/When-your-stomach-hurts.html</guid><pubDate>Wed, 06 Jul 2016 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>http://blog.zelaf.eu/2016/07/06/When-your-stomach-hurts.html</link><guid isPermaLink="true">http://blog.zelaf.eu/2016/07/06/When-your-stomach-hurts.html</guid><pubDate>Wed, 06 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[New blog]]></title><description><![CDATA[<div class="paragraph">
+<p>I got a new blog up and running now&#8230;&#8203; I wont update it too much&#8230;&#8203; Maybe a few times a week to say where I&#8217;ve been and such. I could integrate it into my Adobe Portfolio website so maybe I&#8217;ll do that!</p>
+</div>
+<div class="paragraph">
+<p>For the time being I hope my problems with the domain and HSTS will get solved and that I get a better future&#8230;&#8203; In the mean time I hope you&#8217;re gonna have a great day too!</p>
+</div>
+<div class="paragraph">
+<p>Edit: Fixed the error by clearing ALL my browser data&#8230;&#8203; Luckily I could save my passwords&#8230;&#8203; x3
+Edit2: Maybe not all :(</p>
+</div>
+<div class="paragraph">
+<p>If you&#8217;re wondering about the URL it&#8217;s because I&#8217;m hosting it on my Cozy Cloud provided by <a href="http://cozy.io" class="bare">http://cozy.io</a> you should check them out yourselves if you&#8217;re interested in getting a personal cloud filled with features that other users have created!</p>
+</div>]]></description><link>http://blog.zelaf.eu/2016/07/05/New-blog.html</link><guid isPermaLink="true">http://blog.zelaf.eu/2016/07/05/New-blog.html</guid><pubDate>Tue, 05 Jul 2016 00:00:00 GMT</pubDate></item></channel></rss>
