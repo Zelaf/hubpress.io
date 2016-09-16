@@ -9,6 +9,7 @@
     "title": "Zelaf's Blog",
     "description": "I write about projects, problems and my life.",
     "postsPerPage": "5",
+    "googleAnalytics": "UA-80511145-2",
     "disqus": "zelafs-blog"
   },
   "socialnetwork": {
