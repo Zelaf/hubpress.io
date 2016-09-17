@@ -23,3 +23,26 @@ I quite like this.
 
 
 Hopefully writing will be easier in the future and maybe even more entries to come!
+
+Edit: I think I'll try out a few more of the editing things you can do in the text editor.
+
+*So this is bold*
+
+_This is italic_
+
+`This is "monospace"` Which is like the the code snpipet thingy but single line and stuff.
+
+http://zelaf.eu[OH! You can do links!!]
+
+image::doginforest.jpg[]
+
+TIP: This is a test
+
+WARNING: This is another test
+
+You can also use the `+` sign to add a +
+line break
+
+The more I learn about this writing style the more I like it!
+
+Hopefully I can put more emphasis on the text in the future.
