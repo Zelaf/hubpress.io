@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Zelaf's Blog]]></title><description><![CDATA[I write about projects, problems and my life.]]></description><link>http://blog.zelaf.eu</link><generator>RSS for Node</generator><lastBuildDate>Sat, 17 Sep 2016 05:56:56 GMT</lastBuildDate><atom:link href="http://blog.zelaf.eu/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Now migrated!]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Zelaf's Blog]]></title><description><![CDATA[I write about projects, problems and my life.]]></description><link>http://blog.zelaf.eu</link><generator>RSS for Node</generator><lastBuildDate>Sat, 17 Sep 2016 10:06:52 GMT</lastBuildDate><atom:link href="http://blog.zelaf.eu/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Now migrated!]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Finally I got propper blog hosting! Now I use HubPress (<a href="https://github.com/HubPress/hubpress.io" class="bare">https://github.com/HubPress/hubpress.io</a>)</p>
@@ -31,6 +31,60 @@
 </div>
 <div class="paragraph">
 <p>Hopefully writing will be easier in the future and maybe even more entries to come!</p>
+</div>
+<div class="paragraph">
+<p>Edit: I think I&#8217;ll try out a few more of the editing things you can do in the text editor.</p>
+</div>
+<div class="paragraph">
+<p><strong>So this is bold</strong></p>
+</div>
+<div class="paragraph">
+<p><em>This is italic</em></p>
+</div>
+<div class="paragraph">
+<p><code>This is "monospace"</code> Which is like the the code snpipet thingy but single line and stuff.</p>
+</div>
+<div class="paragraph">
+<p><a href="http://zelaf.eu">OH! You can do links!!</a></p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://blog.zelaf.eu/images/doginforest.jpg" alt="doginforest.jpg">
+</div>
+</div>
+<div class="admonitionblock tip">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-tip" title="Tip"></i>
+</td>
+<td class="content">
+This is a test
+</td>
+</tr>
+</table>
+</div>
+<div class="admonitionblock warning">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-warning" title="Warning"></i>
+</td>
+<td class="content">
+This is another test
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>You can also use the <code>+</code> sign to add a<br>
+line break</p>
+</div>
+<div class="paragraph">
+<p>The more I learn about this writing style the more I like it!</p>
+</div>
+<div class="paragraph">
+<p>Hopefully I can put more emphasis on the text in the future.</p>
 </div>
 </div>
 </div>
