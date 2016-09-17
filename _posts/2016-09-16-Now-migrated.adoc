@@ -1,7 +1,7 @@
 = Now migrated!
 
 
-Finally I got propper blog hosting! Now I use HubPress (https://github.com/HubPress/hubpress.io) 
+Finally I got propper blog hosting! Now I use https://github.com/HubPress/hubpress.io[HubPress]
 
 It feels limited in what it can do. Especially in the writing. BUT unlike other GitHub Pages hostable, it has web based writing... You can write the text in your browser. I think it's a wrapper to ghost which is really nice actually! I can't turn text into links but I have to post them seperatly which kinda sucks.
 
@@ -34,11 +34,6 @@ _This is italic_
 
 http://zelaf.eu[OH! You can do links!!]
 
-image::doginforest.jpg[]
-
-TIP: This is a test
-
-WARNING: This is another test
 
 You can also use the `+` sign to add a +
 line break
