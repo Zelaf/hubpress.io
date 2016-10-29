@@ -41,7 +41,7 @@ _This is italic_
 `This is "monospace"` Which is like the the code snpipet thingy but single line and stuff.
 
 ----
-`This is "monospace"` Which is like the the code snpipet thingy but single line and stuff.
+`This is "monospace"` Which is like the the code snippet thingy but single line and stuff.
 ----
 
 
