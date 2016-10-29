@@ -28,12 +28,28 @@ Edit: I think I'll try out a few more of the editing things you can do in the te
 
 *So this is bold*
 
+----
+*So this is bold*
+----
+
 _This is italic_
+
+----
+_This is italic_
+----
 
 `This is "monospace"` Which is like the the code snpipet thingy but single line and stuff.
 
+----
+`This is "monospace"` Which is like the the code snpipet thingy but single line and stuff.
+----
+
+
 http://zelaf.eu[OH! You can do links!!]
 
+----
+http://zelaf.eu[OH! You can do links!!]
+----
 
 You can also use the `+` sign to add a +
 line break
