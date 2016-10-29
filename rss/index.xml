@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Zelaf's Blog]]></title><description><![CDATA[I write about projects, problems and my life.]]></description><link>http://blog.zelaf.eu</link><generator>RSS for Node</generator><lastBuildDate>Sat, 29 Oct 2016 08:18:56 GMT</lastBuildDate><atom:link href="http://blog.zelaf.eu/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Now migrated!]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Zelaf's Blog]]></title><description><![CDATA[I write about projects, problems and my life.]]></description><link>http://blog.zelaf.eu</link><generator>RSS for Node</generator><lastBuildDate>Sat, 29 Oct 2016 08:19:24 GMT</lastBuildDate><atom:link href="http://blog.zelaf.eu/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Now migrated!]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Finally I got propper blog hosting! Now I use <a href="https://github.com/HubPress/hubpress.io">HubPress</a></p>
@@ -56,7 +56,7 @@
 </div>
 <div class="listingblock">
 <div class="content">
-<pre>`This is "monospace"` Which is like the the code snpipet thingy but single line and stuff.</pre>
+<pre>`This is "monospace"` Which is like the the code snippet thingy but single line and stuff.</pre>
 </div>
 </div>
 <div class="paragraph">
